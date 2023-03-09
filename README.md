@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Welb Santos, brazilian and software engineer
+I'm Welb Santos, brazilian and software engineer.
 
 Working in Financial Industry since 1996. 
 
