@@ -4,7 +4,7 @@ I'm Welb Santos, brazilian and software engineer.
 
 Working in Financial Industry since 1996. 
 
-Currently living in Delaware, USA.
+Currently living in São Paulo, Brazil
 
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welb-santos-12557b6a/)](https://www.linkedin.com/in/welb-santos-12557b6a/)
 
